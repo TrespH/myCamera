@@ -1,7 +1,0 @@
-Dopo aver collegato le due webcamusb, installare "emacs";
-modificare il file motion.conf:
-posizionarsi alla fine del file, rimuovere i 2 ; da camera1 e camera 2 e rinominare:
-camera /etc/motion/camera1.conf in:
-thread /etc/motion/camera1-dist.conf (lo stesso per camera2)
-
-Ciao
